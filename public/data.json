@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Jamaica",
+        "agency": "Recess",
+        "price": 10,
+        "img":"https://images.pexels.com/photos/11507502/pexels-photo-11507502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 2,
+        "name": "Paris",
+        "agency": "Recess",
+        "price": 10,
+        "img":"https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    
+    {
+        "id": 3,
+        "name": "Egipto",
+        "agency": "Recess",
+        "price": 10,
+        "img":"https://images.pexels.com/photos/3214972/pexels-photo-3214972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+   
+    },
+    {
+        "id": 4,
+        "name": "Amazon brazil",
+        "agency": "Recess",
+        "price": 10,
+        "img":"https://images.pexels.com/photos/6039237/pexels-photo-6039237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+    }
+    
+
+]
